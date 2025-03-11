@@ -73,6 +73,7 @@ function App() {
 
   return (
     <>
+    hello
       <AuthProvider>
         <RouterProvider router={router} />
       </AuthProvider>
